@@ -82,6 +82,8 @@ for i in data.keys():
         with col3:
             # st.write(data[i]['distance'])
             st.write('Distance from the sun: ', data[i]['distance'])
+            st.write('Coordinates: ', data[i]['location'])
+
             if st.button('Reserve', key = i):
                 st.write('Congratulations! You reserved this star')
                 st.balloons()
