@@ -1,12 +1,12 @@
-from importlib.resources import read_binary
-import pandas as pd  # pip install pandas openpyxl
-import plotly.express as px  # pip install plotly-express
+# from importlib.resources import read_binary
+# import pandas as pd  # pip install pandas openpyxl
+# import plotly.express as px  # pip install plotly-express
 import streamlit as st  # pip install streamlit
-from openpyxl import load_workbook
-import numpy as np
-from sklearn.linear_model import LinearRegression
+# from openpyxl import load_workbook
+# import numpy as np
+# from sklearn.linear_model import LinearRegression
 from PIL import Image
-import webbrowser
+# import webbrowser
 import datetime
 from stardata import data
 
