@@ -1,7 +1,7 @@
 
-# Median Lethal Dose (LD50) Calculator
+# Starbooks
 
-This is my OJT project from Philippine Nuclear Research Institute.
+This is our entry in NASA Space App Challenge 2022.
 
 Demo:
 https://share.streamlit.io/sayrilkun/ld50-calculator/app.py
